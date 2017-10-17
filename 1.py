@@ -1,3 +1,2 @@
-xs="We like Python's turtles!"
-for i in xs:
-    print(xs*1000)
+for i in range(1000):
+    print("We love Python's turtles!")
